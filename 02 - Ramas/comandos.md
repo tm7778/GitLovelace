@@ -9,7 +9,7 @@ git branch nombre_rama
 
 # Comando para cambiar de ramas
 
-git chechout nombre_rama
+git checkout nombre_rama
 
 <!-- otra opción con switch -->
 git switch nombre_rama
